@@ -1,0 +1,1975 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "days": [
+                {
+                    "sleep": 270.0,
+                    "sugar": 0.0,
+                    "phone": 283.0,
+                    "fruit": 3.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 50.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 5600.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 0.0,
+                    "phone": 360.0,
+                    "fruit": 1.0,
+                    "vegetables": 4.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 30.0,
+                    "high": 0.0,
+                    "steps": 3000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 255.0,
+                    "fruit": 2.0,
+                    "vegetables": 0.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 15.0,
+                    "high": 0.0,
+                    "steps": 3500.0
+                },
+                {
+                    "sleep": 240.0,
+                    "sugar": 1.0,
+                    "phone": 240.0,
+                    "fruit": 1.0,
+                    "vegetables": 0.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 30.0,
+                    "high": 0.0,
+                    "steps": 7600.0
+                },
+                {
+                    "sleep": 480.0,
+                    "sugar": 2.0,
+                    "phone": 220.0,
+                    "fruit": 1.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 60.0,
+                    "high": 0.0,
+                    "steps": 7800.0
+                },
+                {
+                    "sleep": 500.0,
+                    "sugar": 0.0,
+                    "phone": 310.0,
+                    "fruit": 2.0,
+                    "vegetables": 4.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 8200.0
+                },
+                {
+                    "sleep": 450.0,
+                    "sugar": 0.0,
+                    "phone": 300.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 8900.0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "days": [
+                {},
+                {
+                    "sleep": 300.0,
+                    "sugar": 0.0,
+                    "phone": 347.0,
+                    "fruit": 4.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 30.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4500.0
+                },
+                {
+                    "sleep": 210.0,
+                    "sugar": 0.0,
+                    "phone": 440.0,
+                    "fruit": 7.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 20.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4000.0
+                },
+                {
+                    "sleep": 170.0,
+                    "sugar": 0.0,
+                    "phone": 213.0,
+                    "fruit": 1.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3500.0
+                },
+                {
+                    "sleep": 400.0,
+                    "sugar": 0.0,
+                    "phone": 250.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 30.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4000.0
+                },
+                {
+                    "sleep": 500.0,
+                    "sugar": 0.0,
+                    "phone": 200.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 1.0,
+                    "strength": 20.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 2000.0
+                },
+                {
+                    "sleep": 240.0,
+                    "sugar": 0.0,
+                    "phone": 166.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 20.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 1500.0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "days": [
+                {
+                    "sleep": 300.0,
+                    "sugar": 2.0,
+                    "phone": 420.0,
+                    "fruit": 1.0,
+                    "vegetables": 0.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 15.0,
+                    "high": 5.0,
+                    "steps": 1000.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 2.0,
+                    "phone": 180.0,
+                    "fruit": 1.0,
+                    "vegetables": 0.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 1951.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 1.0,
+                    "phone": 212.0,
+                    "fruit": 1.0,
+                    "vegetables": 0.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 40.0,
+                    "high": 20.0,
+                    "steps": 2166.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 0.0,
+                    "phone": 250.0,
+                    "fruit": 0.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 10.0,
+                    "steps": 2515.0
+                },
+                {
+                    "sleep": 330.0,
+                    "sugar": 0.0,
+                    "phone": 250.0,
+                    "fruit": 1.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 30.0,
+                    "high": 0.0,
+                    "steps": 1800.0
+                },
+                {
+                    "sleep": 600.0,
+                    "sugar": 2.0,
+                    "phone": 420.0,
+                    "fruit": 1.0,
+                    "vegetables": 1.0,
+                    "caffeine": 2.0,
+                    "strength": 5.0,
+                    "moderate": 40.0,
+                    "high": 20.0,
+                    "steps": 2300.0
+                },
+                {
+                    "sleep": 500.0,
+                    "sugar": 1.0,
+                    "phone": 300.0,
+                    "fruit": 0.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 20.0,
+                    "moderate": 30.0,
+                    "high": 10.0,
+                    "steps": 1600.0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "days": [
+                {
+                    "sleep": 360.0,
+                    "sugar": 0.0,
+                    "phone": 4.0,
+                    "fruit": 3.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 15.0,
+                    "high": 75.0,
+                    "steps": 9500.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 1.0,
+                    "phone": 240.0,
+                    "fruit": 4.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 60.0,
+                    "high": 0.0,
+                    "steps": 7000.0
+                },
+                {
+                    "sleep": 380.0,
+                    "sugar": 1.0,
+                    "phone": 320.0,
+                    "fruit": 4.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 60.0,
+                    "high": 0.0,
+                    "steps": 7500.0
+                },
+                {
+                    "sleep": 440.0,
+                    "sugar": 1.0,
+                    "phone": 297.0,
+                    "fruit": 3.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 45.0,
+                    "high": 0.0,
+                    "steps": 6500.0
+                },
+                {},
+                {},
+                {}
+            ]
+        },
+        {
+            "id": 5,
+            "days": [
+                {
+                    "sleep": 330.0,
+                    "sugar": 1.0,
+                    "phone": 127.0,
+                    "fruit": 0.0,
+                    "vegetables": 0.5,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 10.0,
+                    "steps": 2000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 0.0,
+                    "phone": 57.0,
+                    "fruit": 3.0,
+                    "vegetables": 0.5,
+                    "caffeine": 0.0,
+                    "strength": 75.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 2000.0
+                },
+                {
+                    "sleep": 390.0,
+                    "sugar": 1.0,
+                    "phone": 133.0,
+                    "fruit": 0.0,
+                    "vegetables": 0.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 2000.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 1.0,
+                    "phone": 113.0,
+                    "fruit": 0.0,
+                    "vegetables": 0.0,
+                    "caffeine": 0.0,
+                    "strength": 60.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 1000.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 1.0,
+                    "phone": 128.0,
+                    "fruit": 0.0,
+                    "vegetables": 0.5,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 500.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 153.0,
+                    "fruit": 1.0,
+                    "vegetables": 0.5,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 500.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 288.0,
+                    "fruit": 0.0,
+                    "vegetables": 0.5,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 500.0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "days": [
+                {
+                    "sleep": 390.0,
+                    "sugar": 0.0,
+                    "phone": 349.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 10.0,
+                    "high": 10.0,
+                    "steps": 3500.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 0.0,
+                    "phone": 220.0,
+                    "fruit": 1.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 5.0,
+                    "high": 10.0,
+                    "steps": 4000.0
+                },
+                {
+                    "sleep": 337.0,
+                    "sugar": 0.0,
+                    "phone": 240.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 5.0,
+                    "high": 10.0,
+                    "steps": 5600.0
+                },
+                {
+                    "sleep": 540.0,
+                    "sugar": 0.0,
+                    "phone": 194.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 5000.0
+                },
+                {
+                    "sleep": 540.0,
+                    "sugar": 1.0,
+                    "phone": 197.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 10.0,
+                    "moderate": 15.0,
+                    "high": 10.0,
+                    "steps": 6000.0
+                },
+                {
+                    "sleep": 490.0,
+                    "sugar": 2.0,
+                    "phone": 305.0,
+                    "fruit": 2.0,
+                    "vegetables": 2.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 15.0,
+                    "high": 10.0,
+                    "steps": 4895.0
+                },
+                {
+                    "sleep": 600.0,
+                    "sugar": 1.0,
+                    "phone": 90.0,
+                    "fruit": 3.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3200.0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "days": [
+                {
+                    "sleep": 780.0,
+                    "sugar": 1.0,
+                    "phone": 180.0,
+                    "fruit": 1.0,
+                    "vegetables": 5.0,
+                    "caffeine": 2.0,
+                    "strength": 90.0,
+                    "moderate": 60.0,
+                    "high": 0.0,
+                    "steps": 15000.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 0.0,
+                    "phone": 608.0,
+                    "fruit": 2.0,
+                    "vegetables": 4.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 2000.0
+                },
+                {
+                    "sleep": 240.0,
+                    "sugar": 2.0,
+                    "phone": 213.0,
+                    "fruit": 1.0,
+                    "vegetables": 6.0,
+                    "caffeine": 2.0,
+                    "strength": 60.0,
+                    "moderate": 90.0,
+                    "high": 30.0,
+                    "steps": 15500.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 2.0,
+                    "phone": 354.0,
+                    "fruit": 3.0,
+                    "vegetables": 5.0,
+                    "caffeine": 2.0,
+                    "strength": 90.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 10000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 0.0,
+                    "phone": 256.0,
+                    "fruit": 3.0,
+                    "vegetables": 6.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 60.0,
+                    "high": 0.0,
+                    "steps": 14000.0
+                },
+                {
+                    "sleep": 480.0,
+                    "sugar": 6.0,
+                    "phone": 150.0,
+                    "fruit": 0.0,
+                    "vegetables": 4.0,
+                    "caffeine": 2.0,
+                    "strength": 120.0,
+                    "moderate": 30.0,
+                    "high": 0.0,
+                    "steps": 15000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 0.0,
+                    "phone": 285.0,
+                    "fruit": 3.0,
+                    "vegetables": 5.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 60.0,
+                    "high": 60.0,
+                    "steps": 18000.0
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "days": [
+                {},
+                {
+                    "sleep": 420.0,
+                    "sugar": 3.0,
+                    "phone": 325.8,
+                    "fruit": 4.0,
+                    "vegetables": 2.0,
+                    "caffeine": 2.0,
+                    "strength": 60.0,
+                    "moderate": 20.0,
+                    "high": 60.0,
+                    "steps": 15787.0
+                },
+                {
+                    "sleep": 415.0,
+                    "sugar": 4.0,
+                    "phone": 427.2,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 6074.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 2.0,
+                    "phone": 328.8,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 60.0,
+                    "steps": 13756.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 4.0,
+                    "phone": 305.0,
+                    "fruit": 4.0,
+                    "vegetables": 4.0,
+                    "caffeine": 3.0,
+                    "strength": 120.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 12000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 4.0,
+                    "phone": 346.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 4.0,
+                    "strength": 120.0,
+                    "moderate": 20.0,
+                    "high": 20.0,
+                    "steps": 10000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 3.0,
+                    "phone": 230.0,
+                    "fruit": 4.0,
+                    "vegetables": 4.0,
+                    "caffeine": 5.0,
+                    "strength": 20.0,
+                    "moderate": 10.0,
+                    "high": 60.0,
+                    "steps": 14000.0
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "days": [
+                {
+                    "sleep": 450.0,
+                    "sugar": 0.0,
+                    "phone": 213.0,
+                    "fruit": 3.0,
+                    "vegetables": 5.0,
+                    "caffeine": 2.0,
+                    "strength": 20.0,
+                    "moderate": 23.0,
+                    "high": 0.0,
+                    "steps": 10200.0
+                },
+                {
+                    "sleep": 180.0,
+                    "sugar": 0.0,
+                    "phone": 0.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 2.0,
+                    "strength": 35.0,
+                    "moderate": 25.0,
+                    "high": 0.0,
+                    "steps": 12000.0
+                },
+                {
+                    "sleep": 330.0,
+                    "sugar": 2.0,
+                    "phone": 220.0,
+                    "fruit": 2.0,
+                    "vegetables": 2.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 45.0,
+                    "high": 0.0,
+                    "steps": 8500.0
+                },
+                {
+                    "sleep": 450.0,
+                    "sugar": 0.0,
+                    "phone": 380.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 90.0,
+                    "moderate": 15.0,
+                    "high": 0.0,
+                    "steps": 3900.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 0.0,
+                    "phone": 180.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 2.0,
+                    "strength": 45.0,
+                    "moderate": 60.0,
+                    "high": 0.0,
+                    "steps": 12500.0
+                },
+                {
+                    "sleep": 350.0,
+                    "sugar": 1.0,
+                    "phone": 200.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 40.0,
+                    "moderate": 45.0,
+                    "high": 15.0,
+                    "steps": 13000.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 0.0,
+                    "phone": 150.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 35.0,
+                    "high": 10.0,
+                    "steps": 10500.0
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "days": [
+                {
+                    "sleep": 460.0,
+                    "sugar": 1.0,
+                    "phone": 490.0,
+                    "fruit": 0.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 90.0,
+                    "moderate": 10.0,
+                    "high": 0.0,
+                    "steps": 3200.0
+                },
+                {
+                    "sleep": 400.0,
+                    "sugar": 0.0,
+                    "phone": 350.0,
+                    "fruit": 2.0,
+                    "vegetables": 0.0,
+                    "caffeine": 0.0,
+                    "strength": 30.0,
+                    "moderate": 15.0,
+                    "high": 0.0,
+                    "steps": 3600.0
+                },
+                {},
+                {
+                    "sleep": 330.0,
+                    "sugar": 1.0,
+                    "phone": 180.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 2.0,
+                    "strength": 30.0,
+                    "moderate": 45.0,
+                    "high": 0.0,
+                    "steps": 9000.0
+                },
+                {
+                    "sleep": 370.0,
+                    "sugar": 1.0,
+                    "phone": 280.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 80.0,
+                    "moderate": 15.0,
+                    "high": 10.0,
+                    "steps": 3900.0
+                },
+                {
+                    "sleep": 400.0,
+                    "sugar": 0.0,
+                    "phone": 370.0,
+                    "fruit": 1.0,
+                    "vegetables": 1.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 15.0,
+                    "high": 0.0,
+                    "steps": 3500.0
+                },
+                {
+                    "sleep": 490.0,
+                    "sugar": 0.0,
+                    "phone": 340.0,
+                    "fruit": 0.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 90.0,
+                    "moderate": 10.0,
+                    "high": 10.0,
+                    "steps": 3600.0
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "days": [
+                {
+                    "sleep": 510.0,
+                    "sugar": 1.0,
+                    "phone": 210.0,
+                    "fruit": 4.0,
+                    "vegetables": 4.0,
+                    "caffeine": 0.0,
+                    "strength": 20.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 4000.0
+                },
+                {
+                    "sleep": 480.0,
+                    "sugar": 1.0,
+                    "phone": 240.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 10.0,
+                    "moderate": 10.0,
+                    "high": 0.0,
+                    "steps": 8000.0
+                },
+                {
+                    "sleep": 480.0,
+                    "sugar": 1.0,
+                    "phone": 157.0,
+                    "fruit": 4.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 20.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 5400.0
+                },
+                {
+                    "sleep": 380.0,
+                    "sugar": 0.0,
+                    "phone": 180.0,
+                    "fruit": 4.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 20.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 5403.0
+                },
+                {
+                    "sleep": 540.0,
+                    "sugar": 0.0,
+                    "phone": 0.0,
+                    "fruit": 4.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 20.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 0.0
+                },
+                {
+                    "sleep": 540.0,
+                    "sugar": 0.0,
+                    "phone": 0.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 20.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 0.0
+                },
+                {
+                    "sleep": 540.0,
+                    "sugar": 0.0,
+                    "phone": 0.0,
+                    "fruit": 4.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 20.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 0.0
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "days": [
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 328.0,
+                    "fruit": 1.0,
+                    "vegetables": 0.0,
+                    "caffeine": 0.0,
+                    "strength": 120.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 8943.0
+                },
+                {
+                    "sleep": 480.0,
+                    "sugar": 1.0,
+                    "phone": 234.0,
+                    "fruit": 1.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 120.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 10447.0
+                },
+                {
+                    "sleep": 510.0,
+                    "sugar": 0.0,
+                    "phone": 186.0,
+                    "fruit": 0.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4560.0
+                },
+                {
+                    "sleep": 500.0,
+                    "sugar": 0.0,
+                    "phone": 217.0,
+                    "fruit": 0.0,
+                    "vegetables": 1.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 7680.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 1.0,
+                    "phone": 250.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 120.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 6540.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 0.0,
+                    "phone": 180.0,
+                    "fruit": 1.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 120.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 5909.0
+                },
+                {
+                    "sleep": 400.0,
+                    "sugar": 1.0,
+                    "phone": 300.0,
+                    "fruit": 0.0,
+                    "vegetables": 1.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4560.0
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "days": [
+                {
+                    "sleep": 450.0,
+                    "sugar": 0.0,
+                    "phone": 300.0,
+                    "fruit": 4.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 8260.0
+                },
+                {
+                    "sleep": 450.0,
+                    "sugar": 0.0,
+                    "phone": 6.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 8530.0
+                },
+                {
+                    "sleep": 510.0,
+                    "sugar": 0.0,
+                    "phone": 336.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 6798.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 0.0,
+                    "phone": 346.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 6778.0
+                },
+                {
+                    "sleep": 480.0,
+                    "sugar": 0.0,
+                    "phone": 273.0,
+                    "fruit": 4.0,
+                    "vegetables": 0.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 7413.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 0.0,
+                    "phone": 441.0,
+                    "fruit": 3.0,
+                    "vegetables": 4.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3479.0
+                },
+                {
+                    "sleep": 390.0,
+                    "sugar": 0.0,
+                    "phone": 420.0,
+                    "fruit": 4.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4207.0
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "days": [
+                {
+                    "sleep": 0.0,
+                    "sugar": 0.0,
+                    "phone": 316.0,
+                    "fruit": 5.0,
+                    "vegetables": 2.0,
+                    "caffeine": 5.0,
+                    "strength": 90.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 5111.0
+                },
+                {
+                    "sleep": 540.0,
+                    "sugar": 0.0,
+                    "phone": 583.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 2.0,
+                    "strength": 90.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3868.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 0.0,
+                    "phone": 261.0,
+                    "fruit": 3.0,
+                    "vegetables": 1.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3528.0
+                },
+                {
+                    "sleep": 390.0,
+                    "sugar": 0.0,
+                    "phone": 413.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3312.0
+                },
+                {},
+                {
+                    "sleep": 330.0,
+                    "sugar": 2.0,
+                    "phone": 441.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 2.0,
+                    "strength": 80.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 12276.0
+                },
+                {
+                    "sleep": 440.0,
+                    "sugar": 1.0,
+                    "phone": 446.0,
+                    "fruit": 4.0,
+                    "vegetables": 3.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4598.0
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "days": [
+                {
+                    "sleep": 500.0,
+                    "sugar": 0.0,
+                    "phone": 35.0,
+                    "fruit": 0.0,
+                    "vegetables": 0.0,
+                    "caffeine": 2.0,
+                    "strength": 95.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 2000.0
+                },
+                {
+                    "sleep": 560.0,
+                    "sugar": 1.0,
+                    "phone": 52.0,
+                    "fruit": 1.0,
+                    "vegetables": 0.0,
+                    "caffeine": 1.0,
+                    "strength": 100.0,
+                    "moderate": 30.0,
+                    "high": 10.0,
+                    "steps": 5000.0
+                },
+                {
+                    "sleep": 500.0,
+                    "sugar": 0.0,
+                    "phone": 21.0,
+                    "fruit": 0.0,
+                    "vegetables": 0.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3000.0
+                },
+                {
+                    "sleep": 430.0,
+                    "sugar": 0.0,
+                    "phone": 100.0,
+                    "fruit": 2.0,
+                    "vegetables": 2.0,
+                    "caffeine": 1.0,
+                    "strength": 110.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 5000.0
+                },
+                {},
+                {
+                    "sleep": 500.0,
+                    "sugar": 2.0,
+                    "phone": 56.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 120.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3000.0
+                },
+                {
+                    "sleep": 520.0,
+                    "sugar": 2.0,
+                    "phone": 70.0,
+                    "fruit": 1.0,
+                    "vegetables": 2.0,
+                    "caffeine": 2.0,
+                    "strength": 98.0,
+                    "moderate": 20.0,
+                    "high": 10.0,
+                    "steps": 4000.0
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "days": [
+                {
+                    "sleep": 450.0,
+                    "sugar": 2.0,
+                    "phone": 390.0,
+                    "fruit": 1.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4899.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 401.0,
+                    "fruit": 1.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 6565.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 1.0,
+                    "phone": 291.0,
+                    "fruit": 1.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3595.0
+                },
+                {
+                    "sleep": 450.0,
+                    "sugar": 1.0,
+                    "phone": 398.0,
+                    "fruit": 1.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4439.0
+                },
+                {
+                    "sleep": 720.0,
+                    "sugar": 1.0,
+                    "phone": 313.0,
+                    "fruit": 1.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4826.0
+                },
+                {
+                    "sleep": 540.0,
+                    "sugar": 1.0,
+                    "phone": 225.0,
+                    "fruit": 0.0,
+                    "vegetables": 0.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 6152.0
+                },
+                {
+                    "sleep": 390.0,
+                    "sugar": 1.0,
+                    "phone": 495.0,
+                    "fruit": 0.0,
+                    "vegetables": 0.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 2734.0
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "days": [
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 300.0,
+                    "fruit": 4.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 5600.0
+                },
+                {
+                    "sleep": 465.0,
+                    "sugar": 1.0,
+                    "phone": 258.0,
+                    "fruit": 4.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 5.0,
+                    "high": 20.0,
+                    "steps": 5500.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 0.0,
+                    "phone": 280.0,
+                    "fruit": 4.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 15.0,
+                    "steps": 5700.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 0.0,
+                    "phone": 300.0,
+                    "fruit": 4.0,
+                    "vegetables": 4.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 15.0,
+                    "steps": 4900.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 240.0,
+                    "fruit": 4.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 15.0,
+                    "steps": 4800.0
+                },
+                {
+                    "sleep": 660.0,
+                    "sugar": 0.0,
+                    "phone": 300.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 2000.0
+                },
+                {
+                    "sleep": 480.0,
+                    "sugar": 1.0,
+                    "phone": 150.0,
+                    "fruit": 4.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 15.0,
+                    "steps": 5450.0
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "days": [
+                {
+                    "sleep": 376.0,
+                    "sugar": 2.0,
+                    "phone": 224.0,
+                    "fruit": 3.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 20.0,
+                    "steps": 4191.0
+                },
+                {
+                    "sleep": 315.0,
+                    "sugar": 1.0,
+                    "phone": 263.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 10483.0
+                },
+                {
+                    "sleep": 414.0,
+                    "sugar": 1.0,
+                    "phone": 375.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 10.0,
+                    "steps": 10483.0
+                },
+                {
+                    "sleep": 280.0,
+                    "sugar": 1.0,
+                    "phone": 438.0,
+                    "fruit": 4.0,
+                    "vegetables": 1.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 9938.0
+                },
+                {
+                    "sleep": 350.0,
+                    "sugar": 3.0,
+                    "phone": 408.0,
+                    "fruit": 2.0,
+                    "vegetables": 3.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 2601.0
+                },
+                {
+                    "sleep": 385.0,
+                    "sugar": 2.0,
+                    "phone": 345.0,
+                    "fruit": 1.0,
+                    "vegetables": 4.0,
+                    "caffeine": 2.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 5046.0
+                },
+                {
+                    "sleep": 465.0,
+                    "sugar": 1.0,
+                    "phone": 285.0,
+                    "fruit": 3.0,
+                    "vegetables": 2.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 30.0,
+                    "high": 10.0,
+                    "steps": 11840.0
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "days": [
+                {
+                    "sleep": 660.0,
+                    "sugar": 0.0,
+                    "phone": 240.0,
+                    "fruit": 3.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 45.0,
+                    "high": 0.0,
+                    "steps": 9000.0
+                },
+                {
+                    "sleep": 660.0,
+                    "sugar": 0.0,
+                    "phone": 180.0,
+                    "fruit": 1.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 5000.0
+                },
+                {
+                    "sleep": 600.0,
+                    "sugar": 0.0,
+                    "phone": 190.0,
+                    "fruit": 2.0,
+                    "vegetables": 0.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 6000.0
+                },
+                {
+                    "sleep": 660.0,
+                    "sugar": 0.0,
+                    "phone": 180.0,
+                    "fruit": 4.0,
+                    "vegetables": 5.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 6000.0
+                },
+                {
+                    "sleep": 660.0,
+                    "sugar": 0.0,
+                    "phone": 156.0,
+                    "fruit": 4.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 8000.0
+                },
+                {
+                    "sleep": 840.0,
+                    "sugar": 0.0,
+                    "phone": 137.0,
+                    "fruit": 5.0,
+                    "vegetables": 4.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 2000.0
+                },
+                {
+                    "sleep": 720.0,
+                    "sugar": 0.0,
+                    "phone": 240.0,
+                    "fruit": 5.0,
+                    "vegetables": 5.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3000.0
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "days": [
+                {
+                    "sleep": 420.0,
+                    "sugar": 4.0,
+                    "phone": 360.0,
+                    "fruit": 3.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 60.0,
+                    "high": 0.0,
+                    "steps": 10000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 3.0,
+                    "phone": 320.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 1.0,
+                    "strength": 120.0,
+                    "moderate": 30.0,
+                    "high": 0.0,
+                    "steps": 10000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 360.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 60.0,
+                    "moderate": 30.0,
+                    "high": 0.0,
+                    "steps": 12000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 360.0,
+                    "fruit": 1.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 30.0,
+                    "moderate": 30.0,
+                    "high": 0.0,
+                    "steps": 9000.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 2.0,
+                    "phone": 420.0,
+                    "fruit": 1.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 30.0,
+                    "high": 0.0,
+                    "steps": 8000.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 1.0,
+                    "phone": 360.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 60.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 10000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 0.0,
+                    "phone": 360.0,
+                    "fruit": 2.0,
+                    "vegetables": 1.0,
+                    "caffeine": 0.0,
+                    "strength": 120.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 11000.0
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "days": [
+                {
+                    "sleep": 420.0,
+                    "sugar": 2.0,
+                    "phone": 300.0,
+                    "fruit": 4.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 30.0,
+                    "high": 0.0,
+                    "steps": 9000.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 0.0,
+                    "phone": 256.0,
+                    "fruit": 6.0,
+                    "vegetables": 7.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 10.0,
+                    "steps": 10000.0
+                },
+                {
+                    "sleep": 540.0,
+                    "sugar": 1.0,
+                    "phone": 180.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 30.0,
+                    "high": 10.0,
+                    "steps": 11000.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 0.0,
+                    "phone": 260.0,
+                    "fruit": 5.0,
+                    "vegetables": 8.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 9000.0
+                },
+                {
+                    "sleep": 500.0,
+                    "sugar": 0.0,
+                    "phone": 300.0,
+                    "fruit": 0.0,
+                    "vegetables": 3.0,
+                    "caffeine": 2.0,
+                    "strength": 10.0,
+                    "moderate": 30.0,
+                    "high": 10.0,
+                    "steps": 12000.0
+                },
+                {
+                    "sleep": 540.0,
+                    "sugar": 1.0,
+                    "phone": 300.0,
+                    "fruit": 6.0,
+                    "vegetables": 7.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 10000.0
+                },
+                {
+                    "sleep": 590.0,
+                    "sugar": 0.0,
+                    "phone": 400.0,
+                    "fruit": 3.0,
+                    "vegetables": 5.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 20.0,
+                    "high": 10.0,
+                    "steps": 9000.0
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "days": [
+                {
+                    "sleep": 480.0,
+                    "sugar": 1.0,
+                    "phone": 314.0,
+                    "fruit": 2.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 100.0,
+                    "moderate": 20.0,
+                    "high": 0.0,
+                    "steps": 5500.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 0.0,
+                    "phone": 227.0,
+                    "fruit": 3.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 10.0,
+                    "high": 0.0,
+                    "steps": 5500.0
+                },
+                {
+                    "sleep": 300.0,
+                    "sugar": 0.0,
+                    "phone": 157.0,
+                    "fruit": 4.0,
+                    "vegetables": 4.0,
+                    "caffeine": 0.0,
+                    "strength": 100.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 3800.0
+                },
+                {
+                    "sleep": 440.0,
+                    "sugar": 0.0,
+                    "phone": 235.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4000.0
+                },
+                {
+                    "sleep": 570.0,
+                    "sugar": 0.0,
+                    "phone": 208.0,
+                    "fruit": 5.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 30.0,
+                    "steps": 6000.0
+                },
+                {
+                    "sleep": 500.0,
+                    "sugar": 0.0,
+                    "phone": 193.0,
+                    "fruit": 2.0,
+                    "vegetables": 2.0,
+                    "caffeine": 0.0,
+                    "strength": 100.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 4000.0
+                },
+                {
+                    "sleep": 450.0,
+                    "sugar": 0.0,
+                    "phone": 200.0,
+                    "fruit": 3.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 0.0,
+                    "moderate": 30.0,
+                    "high": 0.0,
+                    "steps": 5700.0
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "days": [
+                {
+                    "sleep": 360.0,
+                    "sugar": 1.0,
+                    "phone": 104.0,
+                    "fruit": 1.0,
+                    "vegetables": 3.0,
+                    "caffeine": 0.0,
+                    "strength": 120.0,
+                    "moderate": 0.0,
+                    "high": 105.0,
+                    "steps": 16138.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 140.0,
+                    "fruit": 1.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 70.0,
+                    "moderate": 0.0,
+                    "high": 60.0,
+                    "steps": 14014.0
+                },
+                {
+                    "sleep": 500.0,
+                    "sugar": 1.0,
+                    "phone": 135.0,
+                    "fruit": 1.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 90.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 5000.0
+                },
+                {
+                    "sleep": 360.0,
+                    "sugar": 2.0,
+                    "phone": 202.0,
+                    "fruit": 1.0,
+                    "vegetables": 2.0,
+                    "caffeine": 1.0,
+                    "strength": 0.0,
+                    "moderate": 0.0,
+                    "high": 120.0,
+                    "steps": 14000.0
+                },
+                {
+                    "sleep": 420.0,
+                    "sugar": 1.0,
+                    "phone": 200.0,
+                    "fruit": 1.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 100.0,
+                    "moderate": 0.0,
+                    "high": 60.0,
+                    "steps": 12000.0
+                },
+                {
+                    "sleep": 400.0,
+                    "sugar": 1.0,
+                    "phone": 333.0,
+                    "fruit": 1.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 90.0,
+                    "moderate": 0.0,
+                    "high": 100.0,
+                    "steps": 11000.0
+                },
+                {
+                    "sleep": 410.0,
+                    "sugar": 1.0,
+                    "phone": 200.0,
+                    "fruit": 1.0,
+                    "vegetables": 3.0,
+                    "caffeine": 1.0,
+                    "strength": 120.0,
+                    "moderate": 0.0,
+                    "high": 0.0,
+                    "steps": 6000.0
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "days": [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {}
+            ]
+        }
+    ]
+}
